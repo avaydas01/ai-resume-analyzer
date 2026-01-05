@@ -1,7 +1,5 @@
-# AI Resume Analyzer
-
-An AI-based web application that analyzes resumes and compares them with job
-descriptions using NLP techniques.
+# Resume Analyzer
+A web application that analyzes resumes and compares them with job descriptions using NLP techniques (keyword matching).
 
 ## Overview
 This project extracts text from resume PDFs and evaluates how well a resume
